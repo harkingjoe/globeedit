@@ -27,3 +27,10 @@ $ source ~/.bashrc
 
 ## 使い方
 
+
+
+## ライセンス
+
+- このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
+- このパッケージは、[GlobeEditor](https://github.com/harkingjoe/GlobeEditor)（MITライセンス、© 2026 harkingjoe）を利用しています。
+- © 2026 harkingjoe
